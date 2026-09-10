@@ -1,3 +1,3 @@
 # Projects
-Welcome to Projects in quantitative finance, credit risk, and data analysis.
+Welcome to my projects in quantitative finance, credit risk, and data analysis.
 Feel free to look around.
